@@ -1,4 +1,4 @@
-## Hi there, I'm Ika 👋
+## <p style="text-align:center;">Hi there, I'm Ika 👋</p>
 
 I'm a tech enthusiast, programmer, musician, and coffee connoisseur.
 ##
