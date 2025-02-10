@@ -16,7 +16,8 @@ Planning to learn :
 ##
 ## My chosen code editors / IDEs
 - Visual Studio Code
-- IntelliJ IDEA
+- IntelliJ IDEA ![2048px-Visual_Studio_Code_1 35_icon svg](https://github.com/user-attachments/assets/1ac160c9-e975-44de-a253-e52c1d344f14)
+
 - Jetbrains Rider
 
 
