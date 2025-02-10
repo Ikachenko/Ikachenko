@@ -15,7 +15,9 @@ Planning to learn :
 ##
 
 ## My chosen code editors / IDEs
-![image](https://github.com/user-attachments/assets/578ba4d3-ce98-4dd3-8574-e96ef3d8c5e7)
+- Visual Studio Code
+- IntelliJ IDEA
+- Jetbrains Rider
 
 
 <!--
