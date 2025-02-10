@@ -1,7 +1,8 @@
 ## Hi there, I'm Ika 👋
 
 I'm a tech enthusiast, programmer, musician, and coffee connoisseur.
-
+##
+## My Languages
 My Languages :
 - HTML
 - CSS
@@ -13,7 +14,6 @@ Planning to learn :
 - C#
 - C++ and C
 ##
-
 ## My chosen code editors / IDEs
 - Visual Studio Code
 - IntelliJ IDEA
