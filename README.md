@@ -2,7 +2,7 @@
 
 I'm a tech enthusiast, programmer, musician, and coffee connoisseur.
 ##
-## My Programming skillsets
+## My Skillsets
 - HTML
 - CSS
 - Webflow
