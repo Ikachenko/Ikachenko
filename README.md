@@ -6,6 +6,7 @@ I'm a tech enthusiast, programmer, musician, and coffee connoisseur.
 - HTML
 - CSS
 - Webflow
+- Javascript
 
 I'm currently learning :
 - Java
