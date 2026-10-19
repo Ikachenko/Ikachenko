@@ -1,7 +1,7 @@
 <h1 align="center">Hi i'm Ikachenko 🤩</h1>
 <h3 align="center"> Microchip Enthusiast | Engineering Student | Programmer | Hobby Electronics</h3>
 <br>
-I'm a tech enthusiast, engineering student, programmer, and hobby electronics creator
+I'm a engineering sciences student who's passionate about microchips and semiconductors. I am a robotics club technical director who improved lab equipment, competition participation, and won our first competition. On the side, I enjoy casually making projects both software and hardware: hobby electronics, mods, and playing around with homelabs, linux, and VMs.
 
 ##
 ### Core Skillsets
@@ -14,3 +14,7 @@ I'm a tech enthusiast, engineering student, programmer, and hobby electronics cr
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ikachenko&show_icons=true&theme=transparent&hide_border=false" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikachenko&layout=compact&theme=transparent&hide_border=false" />
 </p>
+
+##
+### Current Projects
+![Luma. Stats](https://readme-stats-github.pages.dev/api/repo?username=ikachenko&repo=Luma.&theme=transparent)
