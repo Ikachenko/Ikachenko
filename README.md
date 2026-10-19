@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="100%" height="547" alt="54925177212_d4b76194e1_c" src="https://github.com/user-attachments/assets/073575c0-e5fc-4fa3-b15b-3a36ba6fa78f" />
+</p>
+*img by Fritzchens Fritz
+
 ## Hi there, I'm Ika 👋
 
 I'm a tech enthusiast, engineering student, programmer, and hobby electronics creator\
