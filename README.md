@@ -1,4 +1,4 @@
-<h1 align="center">Hi i'm Ikachenko 🤩</h1>
+<h1 align="center">Hi i'm Ikachenko 😉</h1>
 <h3 align="center"> Microchip Enthusiast | Engineering Student | Programmer | Hobby Electronics</h3>
 <br>
 I'm a engineering sciences student who's passionate about microchips and semiconductors. I am a robotics club technical director who improved lab equipment, competition participation, and won our first competition. On the side, I enjoy casually making projects both software and hardware: hobby electronics, mods, and playing around with homelabs, linux, and VMs.
